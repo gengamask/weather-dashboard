@@ -45,7 +45,7 @@ Have run the program for a test, display current and the next 5days of weather.
 Also, displays the search history and able the click to search again.
 
 ## Live Website
-[Click](https://gengamask.github.io/5day-weather-forecast/) for the demo
+[Click](https://gengamask.github.io/weather-dashboard/) for the demo
 
 ## Questions
 For any question, please visit my [github page](https://github.com/gengamask)
